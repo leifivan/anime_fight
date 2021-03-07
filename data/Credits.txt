@@ -1,0 +1,33 @@
+<block:-1,-1,10,10,offbot,center,blank>
+CREDITS
+
+\c[2]Script/Plugin Programmers
+Moghunter
+Galv
+Uchuzine & Nak ( and Eliaquim )
+Yanfly
+mjshi
+Chaucer
+
+
+\c[2]Artwork/Audio
+Vibrato
+Kadokawa
+Holder
+Blog in Sky/Soramani
+Caz Wolf
+Shikashi
+munokura
+
+
+\c[2]Android Deployment
+Altimit Systems
+Biud436
+
+
+\c[2]Developed by
+Leif
+
+
+\c[2]Thank you so much for playing!
+</block>
